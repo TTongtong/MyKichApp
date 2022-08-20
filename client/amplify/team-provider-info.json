@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mykichapp-dev-153849-authRole",
+      "UnauthRoleArn": "arn:aws:iam::182164366094:role/amplify-mykichapp-dev-153849-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::182164366094:role/amplify-mykichapp-dev-153849-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-mykichapp-dev-153849-deployment",
+      "UnauthRoleName": "amplify-mykichapp-dev-153849-unauthRole",
+      "StackName": "amplify-mykichapp-dev-153849",
+      "StackId": "arn:aws:cloudformation:us-east-1:182164366094:stack/amplify-mykichapp-dev-153849/8d064e50-1ff6-11ed-a330-0e51bff2a9b7",
+      "AmplifyAppId": "d3dzbekpykc96s"
+    },
+    "categories": {
+      "auth": {
+        "mykichapp22376abb": {}
+      }
+    }
+  }
+}
